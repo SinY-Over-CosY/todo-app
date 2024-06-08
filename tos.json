@@ -1,0 +1,12 @@
+{
+    "day1": {
+        "type": "reminder",
+        "description": "do homework"
+    },
+
+    "day2": {
+        "type": "event",
+        "description": "business degree final exam (bring colouring pencils)"
+    }
+}
+
