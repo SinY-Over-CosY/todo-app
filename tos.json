@@ -1,11 +1,12 @@
 {
-    "day1": {
-        "type": "reminder",
-        "description": "do homework"
+    "business degree final": {
+        "date": "13/3/2024",
+        "description": "business degree final exam (bring colouring pencils)",
+        "time": "9:00"
     },
-
-    "day2": {
-        "type": "event",
-        "description": "business degree final exam (bring colouring pencils)"
+    "homework": {
+        "date": "12/3/2024",
+        "description": "do homework",
+        "time": "14:00"
     }
 }
